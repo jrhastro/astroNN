@@ -1,0 +1,2 @@
+model_checkpoint_path: "model_WL_basic_with_chkpts_batch"
+all_model_checkpoint_paths: "model_WL_basic_with_chkpts_batch"
